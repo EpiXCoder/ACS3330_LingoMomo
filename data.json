@@ -1,0 +1,468 @@
+{
+    "modules": [
+        {
+            "id": "greetings",
+            "title": "Greetings",
+            "questions": [
+                {
+                    "id": "g1",
+                    "question": "How do you say 'Hello'?",
+                    "options": [
+                        "Bonjour",
+                        "Hola",
+                        "Hallo",
+                        "Ciao"
+                    ],
+                    "answer": "Bonjour"
+                },
+                {
+                    "id": "g2",
+                    "question": "How do you say 'Goodbye'?",
+                    "options": [
+                        "Adiós",
+                        "Au revoir",
+                        "Arrivederci",
+                        "Tschüss"
+                    ],
+                    "answer": "Au revoir"
+                },
+                {
+                    "id": "g3",
+                    "question": "How do you say 'Good morning'?",
+                    "options": [
+                        "Buongiorno",
+                        "Guten Morgen",
+                        "Buenos días",
+                        "Bonjour"
+                    ],
+                    "answer": "Bonjour"
+                },
+                {
+                    "id": "g4",
+                    "question": "How do you say 'Good night'?",
+                    "options": [
+                        "Bonne nuit",
+                        "Buona notte",
+                        "Gute Nacht",
+                        "Buenas noches"
+                    ],
+                    "answer": "Bonne nuit"
+                },
+                {
+                    "id": "g5",
+                    "question": "How do you say 'How are you?'?",
+                    "options": [
+                        "Come stai?",
+                        "Wie geht's?",
+                        "¿Cómo estás?",
+                        "Comment ça va?"
+                    ],
+                    "answer": "Comment ça va?"
+                },
+                {
+                    "id": "g6",
+                    "question": "How do you say 'Fine, thank you'?",
+                    "options": [
+                        "Bien, gracias",
+                        "Bene, grazie",
+                        "Gut, danke",
+                        "Bien, merci"
+                    ],
+                    "answer": "Bien, merci"
+                },
+                {
+                    "id": "g7",
+                    "question": "How do you say 'And you?'?",
+                    "options": [
+                        "E tu?",
+                        "Und Sie?",
+                        "¿Y tú?",
+                        "Et toi?"
+                    ],
+                    "answer": "Et toi?"
+                },
+                {
+                    "id": "g8",
+                    "question": "How do you say 'Welcome'?",
+                    "options": [
+                        "Willkommen",
+                        "Benvenuto",
+                        "Bienvenido",
+                        "Bienvenue"
+                    ],
+                    "answer": "Bienvenue"
+                },
+                {
+                    "id": "g9",
+                    "question": "How do you say 'See you tomorrow'?",
+                    "options": [
+                        "Hasta mañana",
+                        "Bis morgen",
+                        "Ci vediamo domani",
+                        "À demain"
+                    ],
+                    "answer": "À demain"
+                },
+                {
+                    "id": "g10",
+                    "question": "How do you say 'Please'?",
+                    "options": [
+                        "Per favore",
+                        "Bitte",
+                        "Por favor",
+                        "S'il vous plaît"
+                    ],
+                    "answer": "S'il vous plaît"
+                }
+            ]
+        },
+        {
+            "id": "basics",
+            "title": "Basics",
+            "questions": [
+                {
+                    "id": "b1",
+                    "question": "How do you say 'Yes'?",
+                    "options": [
+                        "Ja",
+                        "Sì",
+                        "Oui",
+                        "Yes"
+                    ],
+                    "answer": "Oui"
+                },
+                {
+                    "id": "b2",
+                    "question": "How do you say 'No'?",
+                    "options": [
+                        "No",
+                        "Nein",
+                        "Non",
+                        "No"
+                    ],
+                    "answer": "Non"
+                },
+                {
+                    "id": "b3",
+                    "question": "How do you say 'Thank you'?",
+                    "options": [
+                        "Grazie",
+                        "Danke",
+                        "Merci",
+                        "Gracias"
+                    ],
+                    "answer": "Merci"
+                },
+                {
+                    "id": "b4",
+                    "question": "How do you say 'You're welcome'?",
+                    "options": [
+                        "Prego",
+                        "De nada",
+                        "Vous êtes le bienvenu",
+                        "De rien"
+                    ],
+                    "answer": "De rien"
+                },
+                {
+                    "id": "b5",
+                    "question": "How do you say 'Excuse me'?",
+                    "options": [
+                        "Scusi",
+                        "Entschuldigung",
+                        "Excusez-moi",
+                        "Perdón"
+                    ],
+                    "answer": "Excusez-moi"
+                },
+                {
+                    "id": "b6",
+                    "question": "How do you say 'I'm sorry'?",
+                    "options": [
+                        "Lo siento",
+                        "Mi dispiace",
+                        "Je suis désolé",
+                        "Es tut mir leid"
+                    ],
+                    "answer": "Je suis désolé"
+                },
+                {
+                    "id": "b7",
+                    "question": "How do you say 'I don't understand'?",
+                    "options": [
+                        "Ich verstehe nicht",
+                        "No entiendo",
+                        "Je ne comprends pas",
+                        "Non capisco"
+                    ],
+                    "answer": "Je ne comprends pas"
+                },
+                {
+                    "id": "b8",
+                    "question": "How do you say 'Thank you'?",
+                    "options": [
+                        "Grazie",
+                        "Danke",
+                        "Gracias",
+                        "Merci"
+                    ],
+                    "answer": "Merci"
+                },
+                {
+                    "id": "b9",
+                    "question": "How do you say 'You're welcome'?",
+                    "options": [
+                        "De nada",
+                        "Prego",
+                        "Bitte",
+                        "De rien"
+                    ],
+                    "answer": "De rien"
+                },
+                {
+                    "id": "b10",
+                    "question": "How do you say 'Please'?",
+                    "options": [
+                        "Bitte",
+                        "Per favore",
+                        "Por favor",
+                        "S'il vous plaît"
+                    ],
+                    "answer": "S'il vous plaît"
+                }
+            ]
+        },
+        {
+            "id": "numbers",
+            "title": "Numbers",
+            "questions": [
+                {
+                    "id": "n1",
+                    "question": "How do you say 'One'?",
+                    "options": [
+                        "Uno",
+                        "Eins",
+                        "Un",
+                        "Um"
+                    ],
+                    "answer": "Un"
+                },
+                {
+                    "id": "n2",
+                    "question": "How do you say 'Two'?",
+                    "options": [
+                        "Dos",
+                        "Zwei",
+                        "Deux",
+                        "Due"
+                    ],
+                    "answer": "Deux"
+                },
+                {
+                    "id": "n3",
+                    "question": "How do you say 'Three'?",
+                    "options": [
+                        "Tres",
+                        "Drei",
+                        "Tre",
+                        "Trois"
+                    ],
+                    "answer": "Trois"
+                },
+                {
+                    "id": "n4",
+                    "question": "How do you say 'Four'?",
+                    "options": [
+                        "Quattro",
+                        "Cuatro",
+                        "Vier",
+                        "Quatre"
+                    ],
+                    "answer": "Quatre"
+                },
+                {
+                    "id": "n5",
+                    "question": "How do you say 'Five'?",
+                    "options": [
+                        "Cinco",
+                        "Fünf",
+                        "Cinque",
+                        "Cinq"
+                    ],
+                    "answer": "Cinq"
+                },
+                {
+                    "id": "n6",
+                    "question": "How do you say 'Six'?",
+                    "options": [
+                        "Seis",
+                        "Sei",
+                        "Sechs",
+                        "Six"
+                    ],
+                    "answer": "Six"
+                },
+                {
+                    "id": "n7",
+                    "question": "How do you say 'Seven'?",
+                    "options": [
+                        "Siete",
+                        "Sieben",
+                        "Sette",
+                        "Sept"
+                    ],
+                    "answer": "Sept"
+                },
+                {
+                    "id": "n8",
+                    "question": "How do you say 'Eight'?",
+                    "options": [
+                        "Ocho",
+                        "Otto",
+                        "Acht",
+                        "Huit"
+                    ],
+                    "answer": "Huit"
+                },
+                {
+                    "id": "n9",
+                    "question": "How do you say 'Nine'?",
+                    "options": [
+                        "Nove",
+                        "Neun",
+                        "Nueve",
+                        "Neuf"
+                    ],
+                    "answer": "Neuf"
+                },
+                {
+                    "id": "n10",
+                    "question": "How do you say 'Ten'?",
+                    "options": [
+                        "Diez",
+                        "Zehn",
+                        "Dieci",
+                        "Dix"
+                    ],
+                    "answer": "Dix"
+                }
+            ]
+        },
+        {
+            "id": "colors",
+            "title": "Colors",
+            "questions": [
+                {
+                    "id": "c1",
+                    "question": "How do you say 'Red'?",
+                    "options": [
+                        "Rojo",
+                        "Rot",
+                        "Rouge",
+                        "Rosso"
+                    ],
+                    "answer": "Rouge"
+                },
+                {
+                    "id": "c2",
+                    "question": "How do you say 'Blue'?",
+                    "options": [
+                        "Blau",
+                        "Azul",
+                        "Bleu",
+                        "Blu"
+                    ],
+                    "answer": "Bleu"
+                },
+                {
+                    "id": "c3",
+                    "question": "How do you say 'Green'?",
+                    "options": [
+                        "Verde",
+                        "Grün",
+                        "Vert",
+                        "Verde"
+                    ],
+                    "answer": "Vert"
+                },
+                {
+                    "id": "c4",
+                    "question": "How do you say 'Yellow'?",
+                    "options": [
+                        "Amarillo",
+                        "Gelb",
+                        "Giallo",
+                        "Jaune"
+                    ],
+                    "answer": "Jaune"
+                },
+                {
+                    "id": "c5",
+                    "question": "How do you say 'Black'?",
+                    "options": [
+                        "Schwarz",
+                        "Nero",
+                        "Negro",
+                        "Noir"
+                    ],
+                    "answer": "Noir"
+                },
+                {
+                    "id": "c6",
+                    "question": "How do you say 'White'?",
+                    "options": [
+                        "Blanco",
+                        "Weiß",
+                        "Bianco",
+                        "Blanc"
+                    ],
+                    "answer": "Blanc"
+                },
+                {
+                    "id": "c7",
+                    "question": "How do you say 'Orange'?",
+                    "options": [
+                        "Orange",
+                        "Arancione",
+                        "Oranje",
+                        "Naranja"
+                    ],
+                    "answer": "Orange"
+                },
+                {
+                    "id": "c8",
+                    "question": "How do you say 'Purple'?",
+                    "options": [
+                        "Púrpura",
+                        "Viola",
+                        "Lila",
+                        "Violet"
+                    ],
+                    "answer": "Violet"
+                },
+                {
+                    "id": "c9",
+                    "question": "How do you say 'Brown'?",
+                    "options": [
+                        "Braun",
+                        "Marrone",
+                        "Marrón",
+                        "Brun"
+                    ],
+                    "answer": "Brun"
+                },
+                {
+                    "id": "c10",
+                    "question": "How do you say 'Pink'?",
+                    "options": [
+                        "Rosa",
+                        "Rosa",
+                        "Pink",
+                        "Rose"
+                    ],
+                    "answer": "Rose"
+                }
+            ]
+        }
+    ]
+}

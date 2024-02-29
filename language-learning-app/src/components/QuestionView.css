@@ -1,0 +1,23 @@
+.question-container {
+    margin-bottom: 20px;
+  }
+  
+  .option-button {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+  }
+  
+  .feedback {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .correct {
+    color: #28a745;
+  }
+  
+  .wrong {
+    color: #dc3545;
+  }
+  
