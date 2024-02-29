@@ -4,20 +4,53 @@
   
   .option-button {
     display: block;
-    width: 100%;
-    margin: 5px 0;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 5px;
+    justify-self: center;
+    background-color: #ff6401;
+    font-size: 18px;
+  }
+
+  .option-button:hover {
+    background-color: #874503;
   }
   
   .feedback {
     margin-top: 20px;
     font-weight: bold;
+    font-size: 20px;
   }
   
   .correct {
-    color: #28a745;
+    color: #000000;
   }
   
   .wrong {
-    color: #dc3545;
+    color: #000000;
   }
   
+  .next-button{
+    font-size: 18px;
+    background-color: #ff1875;
+  }
+
+  .score-board{
+    font-size: 18px;
+  }
+
+  .home-button {
+    font-size: 18px;
+    margin-right: 0;
+    background-color: #ff1875;
+  }
+
+  .home-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .module-title{
+    font-size: 20px;
+    /* color: white; */
+  }

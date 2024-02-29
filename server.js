@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 
 const app = express();
-const port = 3001; // Ensure this port is different from the React app's port
+const port = 3001; // This port must be different from the React app's port
 
 app.use(cors());
 app.use(express.json());

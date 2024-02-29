@@ -8,7 +8,7 @@ const ModuleSelector = ({ modules }) => {
 
   return (
     <div>
-      <h1>Select a Module</h1>
+      <h1>Lesson Modules</h1>
       <ul className='module-list'>
         {modules.map((module, index) => (
           <li key={module.id}>
